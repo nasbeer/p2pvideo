@@ -1,1 +1,1 @@
-# p2pvideo
+# P2P Video Steaming App
